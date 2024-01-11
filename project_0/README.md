@@ -1,5 +1,5 @@
-#### SkillFactory: DSPR-2.0
-#### Профессия Data Science
+#### SkillFactory: Data Science
+#### Data Science PRO course
 
 # Проект 0. Угадай число
 
