@@ -63,7 +63,7 @@
 ## Установка проекта
 
 ```
-git clone https://github.com/brom83/hh-resume-eda.git
+git clone https://github.com/NurbolKozhabekov/sf_data_science/tree/2d128ec5fbc7067c94567217b83372a571fd68ea/project_1
 ```
 
 ## Использование
